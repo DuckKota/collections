@@ -44,48 +44,48 @@
 
 | Name | Image |
 | --- | --- |
-| 007 | [collection_007.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_007.png) |
-| Alien | [collection_alien.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_alien.png) |
-| Avatar | [collection_avatar.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_avatar.png) |
-| Back To the Future | [collection_back_to_the_future.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_back_to_the_future.png) |
-| Blade Runner | [collection_blade_runner.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_blade_runner.png) |
-| Conjuring | [collection_conjuring.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_conjuring.png) |
-| Creed | [collection_creed.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_creed.png) |
-| DC Comics | [collection_dc_comics.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_dc_comics.png) |
-| Dune | [collection_dune.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_dune.png) |
-| Expendables | [collection_expendables.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_expendables.png) |
-| Fast Furious | [collection_fast_furious.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_fast_furious.png) |
-| Ghostbusters | [collection_ghostbusters.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_ghostbusters.png) |
-| Godfather | [collection_godfather.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_godfather.png) |
-| Harry Potter | [collection_harry_potter.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_harry_potter.png) |
-| Indiana Jones | [collection_indiana_jones.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_indiana_jones.png) |
-| John Wick | [collection_john_wick.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_john_wick.png) |
-| Jurassic Park | [collection_jurassic_park.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_jurassic_park.png) |
-| Marvel | [collection_marvel.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_marvel.png) |
-| Matrix | [collection_matrix.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_matrix.png) |
-| Mission Impossible | [collection_mission_impossible.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_mission_impossible.png) |
-| Pirates of the Caribbean | [collection_pirates_of_the_caribbean.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_pirates_of_the_caribbean.png) |
-| Planet of the Apes | [collection_planet_of_the_apes.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_planet_of_the_apes.png) |
-| Rambo | [collection_rambo.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_rambo.png) |
-| Rocky | [collection_rocky.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_rocky.png) |
-| Scooby Doo | [collection_scooby_doo.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_scooby_doo.png) |
-| Star Trek | [collection_star_trek.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_star_trek.png) |
-| Star Wars | [collection_star_wars.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_star_wars.png) |
-| The Hunger Games | [collection_the_hunger_games.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_the_hunger_games.png) |
-| The Lord of the Rings | [collection_the_lord_of_the_rings.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_the_lord_of_the_rings.png) |
-| Transformers | [collection_transformers.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/collection_transformers.png) |
+| 007 | [007.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/007.png) |
+| Alien | [alien.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/alien.png) |
+| Avatar | [avatar.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/avatar.png) |
+| Back To the Future | [back_to_the_future.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/back_to_the_future.png) |
+| Blade Runner | [blade_runner.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/blade_runner.png) |
+| Conjuring | [conjuring.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/conjuring.png) |
+| Creed | [creed.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/creed.png) |
+| DC Comics | [dc_comics.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/dc_comics.png) |
+| Dune | [dune.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/dune.png) |
+| Expendables | [expendables.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/expendables.png) |
+| Fast Furious | [fast_furious.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/fast_furious.png) |
+| Ghostbusters | [ghostbusters.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/ghostbusters.png) |
+| Godfather | [godfather.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/godfather.png) |
+| Harry Potter | [harry_potter.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/harry_potter.png) |
+| Indiana Jones | [indiana_jones.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/indiana_jones.png) |
+| John Wick | [john_wick.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/john_wick.png) |
+| Jurassic Park | [jurassic_park.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/jurassic_park.png) |
+| Marvel | [marvel.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/marvel.png) |
+| Matrix | [matrix.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/matrix.png) |
+| Mission Impossible | [mission_impossible.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/mission_impossible.png) |
+| Pirates of the Caribbean | [pirates_of_the_caribbean.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/pirates_of_the_caribbean.png) |
+| Planet of the Apes | [planet_of_the_apes.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/planet_of_the_apes.png) |
+| Rambo | [rambo.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/rambo.png) |
+| Rocky | [rocky.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/rocky.png) |
+| Scooby Doo | [scooby_doo.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/scooby_doo.png) |
+| Star Trek | [star_trek.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/star_trek.png) |
+| Star Wars | [star_wars.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/star_wars.png) |
+| The Hunger Games | [the_hunger_games.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/the_hunger_games.png) |
+| The Lord of the Rings | [the_lord_of_the_rings.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/the_lord_of_the_rings.png) |
+| Transformers | [transformers.png](https://raw.githubusercontent.com/DuckKota/collections/main/collections/transformers.png) |
 
 ## decades
 
 | Name | Image |
 | --- | --- |
-| 1960s | [1960s_poster.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1960s_poster.png) |
-| 1970s | [1970s_poster.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1970s_poster.png) |
-| 1980s | [1980s_poster.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1980s_poster.png) |
-| 1990s | [1990s_poster.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1990s_poster.png) |
-| 2000s | [2000s_poster.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/2000s_poster.png) |
-| 2010s | [2010s_poster.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/2010s_poster.png) |
-| 2020s | [2020s_poster.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/2020s_poster.png) |
+| 1960s | [1960s.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1960s.png) |
+| 1970s | [1970s.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1970s.png) |
+| 1980s | [1980s.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1980s.png) |
+| 1990s | [1990s.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/1990s.png) |
+| 2000s | [2000s.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/2000s.png) |
+| 2010s | [2010s.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/2010s.png) |
+| 2020s | [2020s.png](https://raw.githubusercontent.com/DuckKota/collections/main/decades/2020s.png) |
 
 ## actors
 
