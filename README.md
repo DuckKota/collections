@@ -2,6 +2,7 @@
 
 | Name | Image |
 | --- | --- |
+| Watchlist | [watchlist.jpg](https://raw.githubusercontent.com/DuckKota/collections/main/streaming_services/watchlist.jpg) |
 | Apple TV | [apple_tv.jpg](https://raw.githubusercontent.com/DuckKota/collections/main/streaming_services/apple_tv.jpg) |
 | Discovery+ | [discovery_plus.jpg](https://raw.githubusercontent.com/DuckKota/collections/main/streaming_services/discovery_plus.jpg) |
 | Disney+ | [disney_plus.jpg](https://raw.githubusercontent.com/DuckKota/collections/main/streaming_services/disney_plus.jpg) |
